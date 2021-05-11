@@ -5,6 +5,23 @@ Buy, trade, sell, view and promote your hottest digital "assets" as NFTs. 18+ XX
 
 A digital marketplace similar to OnlyFans where creators can sell NFT's of their provocative photos.
 
+### Subscriptions
+
+Users can pay in $NUDE monthly to subscribe to Creators profiles and see their private posts.
+Subscriptions also contribute to your profiles ranking and you can gain awards and achievements.
+
+### The Auction House 
+
+Creators can mint limited edition NFTs and auction them off in the Auction House.
+
+### The Candy Shop
+
+A FREE marketing section where Creators can post free content / NFTs to market their main profiles and auctions.
+It's like a teaser section. Sometimes limited edition "candies" NFTs will be posted in the Candy Shop.
+
+
+### Private Chat with Creators
+
 ### What makes Own Me unique?
 
 #### Encrypted NFT content.
