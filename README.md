@@ -15,6 +15,17 @@ The only way to view the NFT is by logging in with your Own Me account and using
 The main competition OnlyFans charges: 20% on all transactions. 
 We will charge 1% - 10% (to be decided), leaving much more profit for creators.
 
+## The Token: $NUDE
+Very simple typical ERC-20 token used for in-app transactions and NFT minting.
+
+We think this is a great name and a great meme.
+
+You stacking NUDEs? 
+
+How much NUDEs you got?
+
+HODL your NUDEs.
+
 
 
 
