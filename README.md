@@ -46,10 +46,15 @@ HODL your NUDEs.
 ## Tech
 
 React frontend.
+
 Node.js backend.
+
 AWS infrastructure.
+
 IPFS to store the NFT content.
+
 User accounts and NFT decryption keys stored inside AWS databases.
+
 Not heavy on decentralized factor at first, can refactor into decentralized over time where it makes sense.
 
 ## Aesthetic
