@@ -62,7 +62,9 @@ Not heavy on decentralized factor at first, can refactor into decentralized over
 ## Legal
 
 Creators will need to be legally registered with their real government ID in order to post content on Own Me.
+
 We will make the process as private and secure as possible while allowing anyone who wishes to register.
+
 We need to audit all content / NFTs before they are posted for illegal imagery and underage pornography.
 
 ## Aesthetic
