@@ -22,6 +22,8 @@ It's like a teaser section. Sometimes limited edition "candies" NFTs will be pos
 
 ### Private Chat with Creators
 
+Users can spend NUDE to have a private chat with creators.
+
 ### What makes Own Me unique?
 
 #### Encrypted NFT content.
@@ -56,6 +58,12 @@ IPFS to store the NFT content.
 User accounts and NFT decryption keys stored inside AWS databases.
 
 Not heavy on decentralized factor at first, can refactor into decentralized over time where it makes sense.
+
+## Legal
+
+Creators will need to be legally registered with their real government ID in order to post content on Own Me.
+We will make the process as private and secure as possible while allowing anyone who wishes to register.
+We need to audit all content / NFTs before they are posted for illegal imagery and underage pornography.
 
 ## Aesthetic
 
